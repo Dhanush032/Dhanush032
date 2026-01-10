@@ -7,6 +7,23 @@ I enjoy designing scalable backend systems, working with relational databases, a
 
 ---
 
+### 💼 What I Do
+- Build robust backend systems with **Python** and **Django**
+- Develop real-time applications using **WebSockets** and **Django Channels**
+- Deploy production applications with **PostgreSQL** on **Render**
+- Create RESTful APIs with clean, maintainable code
+- Focus on scalability, performance, and best practices
+
+### 🎓 About Me
+- 🌱 Fresh graduate eager to kickstart my career in backend development
+- 💻 Completed hands-on projects with Django E-Commerce platforms and Job Portal Application
+- 🚀 Deployed Django applications to production with PostgreSQL
+- 📚 Continuously learning and implementing industry best practices
+- 🤝 Open to full-time opportunities, internships, and collaborative projects
+- 🎯 Goal: Contributing to impactful backend systems in a dynamic team environment
+
+---
+
 ## 🛠 Technical Skills
 
 - **Language:** Python  
