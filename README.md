@@ -9,7 +9,6 @@ I enjoy designing scalable backend systems, working with relational databases, a
 
 ### 💼 What I Do
 - Build robust backend systems with **Python** and **Django**
-- Develop real-time applications using **WebSockets** and **Django Channels**
 - Deploy production applications with **PostgreSQL** on **Render**
 - Create RESTful APIs with clean, maintainable code
 - Focus on scalability, performance, and best practices
@@ -82,3 +81,12 @@ Seeking an **entry-level Python/Django Backend Developer** role where I can cont
 - 📧 Email: dhanushv0312@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/dhanush-v2331/  
 - 💻 GitHub: https://github.com/Dhanush032
+
+### 📩 Open to Opportunities!
+I'm actively seeking **Python/Django Backend Developer** positions where I can contribute my skills and grow as a professional. If you have an opportunity that matches my profile, feel free to reach out!
+
+**💼 Open to:** Full-time roles | Internships | Freelance Projects | Open Source Contributions
+
+---
+
+⭐️ From [Dhanush](https://github.com/Dhanush032/Dhanush032)  
