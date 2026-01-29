@@ -38,7 +38,7 @@ I enjoy designing scalable backend systems, working with relational databases, a
 ## 🚀 Projects
 
 ### 🛒 Smart Shopping – E-Commerce Platform
-**Tech:** Django REST Framework, MySQL, JWT, Swagger  
+**Tech:** Django REST Framework, MySQL, JWT  
 - Built 15+ REST APIs for products, cart, and orders  
 - Implemented JWT authentication with role-based access  
 - Optimized queries improving performance by ~30%  
